@@ -1,3 +1,4 @@
+#!/bin/bash
 git fetch origin --prune
 clear
 while read b; do

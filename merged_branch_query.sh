@@ -1,3 +1,4 @@
+#!/bin/bash
 before_date='1 month ago'
 echo fetching the latest from the remote repository before running the query...
 git fetch origin --prune
